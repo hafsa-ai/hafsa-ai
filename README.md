@@ -1,4 +1,4 @@
- Hello there! I’m @hafsa-ai
+  Hello there! I’m @hafsa-ai
 🔭 I’m currently working on exciting tech projects and open-source contributions
 👀 I’m interested in AI, Web Development, and Data Analytics
 🌱 I’m currently learning **Next.js, TypeScript, Web development and Machine Learning **
